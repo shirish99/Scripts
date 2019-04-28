@@ -16,6 +16,6 @@ def multiply(x,y):
 #### updated at git hub ###
 
 def divide(x,y)
-    return x/y
+    return (x/y)
 def display (msg)
     print msg
