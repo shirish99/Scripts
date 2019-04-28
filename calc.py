@@ -17,3 +17,5 @@ def multiply(x,y):
 
 def divide(x,y)
     return x/y
+def display (msg)
+    print msg
